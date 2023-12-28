@@ -1,13 +1,3 @@
-Project Title
-A brief description of your project.
-
-Table of Contents
-Installation
-Configuration
-Usage
-Troubleshooting
-License
-Installation
 To install the required dependencies, use the following command:
 
 
