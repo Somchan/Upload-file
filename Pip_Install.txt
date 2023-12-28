@@ -1,0 +1,9 @@
+fastapi[all] 
+watchgod 
+uvicorn 
+python-multipart
+fastapi
+watchgod
+uvicorn
+Werkzeug
+python-dotenv
